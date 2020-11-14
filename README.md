@@ -13,15 +13,15 @@ Support ReStake by visiting any of the links below and creating an account.  ReS
 
 ## Referrals
 * 4Stake - https://www.4stake.com/5f57bc704faf4af43870da13
-    ![4 Stake Logo](logo/4stake.png)
+    <!-- ![4 Stake Logo](logo/4stake.png) -->
 * BDCASH PTC - http://cash.bigdatacash.online/?r=boxycoin
-    ![BDCASH logo](logo/bdcash.gif)
+    <!-- ![BDCASH logo](logo/bdcash.gif) -->
 * Birake Exchange - https://trade.birake.com/?r=temp-j
-    ![Birake Logo](logo/birake.png)
+    <!-- ![Birake Logo](logo/birake.png) -->
 * Bololex - https://bololex.com/trading/sessions/signup/4RV5WJG2JAO8FW9C
-    ![Bololex Logo](logo/bololex.png)
+    <!-- ![Bololex Logo](logo/bololex.png) -->
 * CoinBase - https://www.coinbase.com/join/devlin_4e
-    ![CoinBase Logo](logo/coinbase.png)
+    <!-- ![CoinBase Logo](logo/coinbase.png) -->
 * CoinStake - https://www.coinstake.in/?r=3597
     
 * Crex24 - https://crex24.com/?refid=9fo1bri8m6xpwnbcawyu
