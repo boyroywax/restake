@@ -18,6 +18,7 @@ Support ReStake by visiting any of the links below and creating an account.  ReS
     <!-- ![BDCASH logo](logo/bdcash.gif) -->
 * Birake Exchange - https://trade.birake.com/?r=temp-j
     <!-- ![Birake Logo](logo/birake.png) -->
+* Bitrad.io - https://bitrad.io/?ref=235693
 * Bololex - https://bololex.com/trading/sessions/signup/4RV5WJG2JAO8FW9C
     <!-- ![Bololex Logo](logo/bololex.png) -->
 * CoinBase - https://www.coinbase.com/join/devlin_4e
