@@ -23,6 +23,7 @@ Support ReStake by visiting any of the links below and creating an account.  ReS
     <!-- ![Bololex Logo](logo/bololex.png) -->
 * CoinBase - https://www.coinbase.com/join/devlin_4e
     <!-- ![CoinBase Logo](logo/coinbase.png) -->
+* CoinDirect - https://www.coindirect.com/?afid=GGEGBY6L
 * CoinStake - https://www.coinstake.in/?r=3597
     
 * Crex24 - https://crex24.com/?refid=9fo1bri8m6xpwnbcawyu
